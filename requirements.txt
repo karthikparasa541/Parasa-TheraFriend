@@ -1,4 +1,5 @@
 langchain
 langchain-openai
+langchain-classic
 streamlit
 streamlit-chat
