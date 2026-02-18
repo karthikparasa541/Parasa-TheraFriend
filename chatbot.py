@@ -3,8 +3,8 @@ from streamlit_chat import message
 # from langchain.chat_models import ChatOpenAI
 from langchain_openai import ChatOpenAI
 # from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain.chains import ConversationChain
-from langchain.chains.conversation.memory import ConversationBufferWindowMemory
+from langchain_classic.chains import ConversationChain
+from langchain_classic.chains.conversation.memory import ConversationBufferWindowMemory
 
 import os
 
